@@ -1,4 +1,4 @@
-👋 Hi, I’m @ViacheslavKudinov
+## 👋 Hi, I’m @ViacheslavKudinov
 - Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Technical Cybernetics) and a special focus on application and infrastructure operations automation
 - Highly proficient in supporting the creation, deployment, and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible, Puppet)
 - Implement Continuous Integration, continuous delivery, and deployment using various CI/CD Tools like Jenkins, Bamboo, Google Cloud Build, GitHub actions, Argo CD
@@ -42,4 +42,8 @@
 ![](https://img.shields.io/badge/-GoCD-informational?style=for-the-badge&logo=gocd&logoColor=white&color=94399E)
 ![](https://img.shields.io/badge/-Bamboo-informational?style=for-the-badge&logo=bamboo&logoColor=white&color=0052CC)
 
+### IaC/Configuration Management
+![](https://img.shields.io/badge/-RedHat_Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/-Puppet-informational?style=for-the-badge&logo=puppet&logoColor=white&color=FFAE1A)
 
