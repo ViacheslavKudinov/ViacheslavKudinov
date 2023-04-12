@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/ViacheslavKudinov/ViacheslavKudinov/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 👋 Hi, I’m @ViacheslavKudinov :ukraine:
+- Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Technical Cybernetics) and a special focus on application and infrastructure operations automation
+- Highly proficient in supporting the creation, deployment, and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible, Puppet)
+- Implement Continuous Integration, continuous delivery, and deployment using various CI/CD Tools like Jenkins, Bamboo, Google Cloud Build, GitHub actions, Argo CD
+- Proven track record of successful collaboration within software engineering, quality assurance teams to deploy and operate solutions, help to automate and streamline operations and processes, and build and maintain tools for deployment, monitoring, and operations
+- Results-driven with strong problem solving and troubleshooting skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 🔧 Technologies & Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### OS
+![](https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/-CentOS-informational?style=for-the-badge&logo=CentOS&logoColor=white&color=262577)
+![](https://img.shields.io/badge/-RedHat_Linux-informational?style=for-the-badge&logo=redhat&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/-Amazon_Linux-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Containers
+![](https://img.shields.io/badge/-RedHat_OpenShift-informational?style=for-the-badge&logo=redhatopenshift&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/-Rancher-informational?style=for-the-badge&logo=rancher&logoColor=white&color=0075A8)
 
-- Bulleted
-- List
+### Public Clouds
+![](https://img.shields.io/badge/-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E)
 
-1. Numbered
-2. List
+### CI/CD
+![](https://img.shields.io/badge/-Github_Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF)
+![](https://img.shields.io/badge/-Drone-informational?style=for-the-badge&logo=drone&logoColor=white&color=212121)
+![](https://img.shields.io/badge/-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/-GoCD-informational?style=for-the-badge&logo=gocd&logoColor=white&color=94399E)
+![](https://img.shields.io/badge/-Bamboo-informational?style=for-the-badge&logo=bamboo&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-Google_Cloud_Build-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/-Ago_CD-informational?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### IaC/Configuration Management
+![](https://img.shields.io/badge/-RedHat_Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/-Puppet-informational?style=for-the-badge&logo=puppet&logoColor=white&color=FFAE1A)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Build Tools
+![](https://img.shields.io/badge/-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
+![](https://img.shields.io/badge/-Apache_Maven-informational?style=for-the-badge&logo=apachemaven&logoColor=white&color=C71A36)
+![](https://img.shields.io/badge/-Gradle-informational?style=for-the-badge&logo=gradle&logoColor=white&color=02303A)
+![](https://img.shields.io/badge/-Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViacheslavKudinov/ViacheslavKudinov/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
