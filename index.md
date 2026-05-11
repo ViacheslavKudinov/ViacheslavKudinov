@@ -1,9 +1,7 @@
-## Welcome to my page
-
-## 👋 Hi, I’m @ViacheslavKudinov 🇺🇦
+## 👋 Hi, I’m @ViacheslavKudinov :ukraine:
 - Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Technical Cybernetics) and a special focus on application and infrastructure operations automation
 - Highly proficient in supporting the creation, deployment, and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible, Puppet)
-- Implement Continuous Integration, continuous delivery, and deployment using various CI/CD Tools like Jenkins, Bamboo, Google Cloud Build, GitHub actions, Argo CD
+- Implement Continuous Integration, continuous delivery, and deployment using various CI/CD Tools like Jenkins, Bamboo, Google Cloud Build, GitHub actions, Argo CD, Flux CD
 - Proven track record of successful collaboration within software engineering, quality assurance teams to deploy and operate solutions, help to automate and streamline operations and processes, and build and maintain tools for deployment, monitoring, and operations
 - Results-driven with strong problem solving and troubleshooting skills
 
@@ -35,7 +33,10 @@
 ![](https://img.shields.io/badge/-GoCD-informational?style=for-the-badge&logo=gocd&logoColor=white&color=94399E)
 ![](https://img.shields.io/badge/-Bamboo-informational?style=for-the-badge&logo=bamboo&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/-Google_Cloud_Build-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/-Flux_CD-informational?style=for-the-badge&logo=flux&logoColor=white&color=5468FF)
 ![](https://img.shields.io/badge/-Argo_CD-informational?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)
+
+
 
 
 ### IaC/Configuration Management
@@ -48,5 +49,6 @@
 ![](https://img.shields.io/badge/-Apache_Maven-informational?style=for-the-badge&logo=apachemaven&logoColor=white&color=C71A36)
 ![](https://img.shields.io/badge/-Gradle-informational?style=for-the-badge&logo=gradle&logoColor=white&color=02303A)
 ![](https://img.shields.io/badge/-Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB)
+
 
 
