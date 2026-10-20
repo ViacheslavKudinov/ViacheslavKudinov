@@ -50,7 +50,7 @@ nav .nav-contact { color: var(--blue); }
 .hero { padding: 88px 0 40px; border-bottom: 1px solid var(--line-soft); background-image: radial-gradient(circle at 85% 15%, rgba(68, 147, 248, .12), transparent 45%), radial-gradient(circle at 70% 80%, rgba(63, 185, 80, .07), transparent 40%); }
 .hero-intro { display: flex; align-items: center; gap: 14px; }
 .avatar { width: 56px; height: 56px; flex: 0 0 auto; border-radius: 50%; object-fit: cover; background: var(--surface); box-shadow: 0 0 0 1px var(--line); }
-.eyebrow, .small-label, .hero-meta, .index, .chip, .job-meta, .merged { flex: 0 0 auto; color: var(--purple); font-size: 11px; }
+.eyebrow, .small-label, .hero-meta, .index, .chip, .job-meta { font-family: var(--font); font-weight: 400; }
 .eyebrow { font-size: 13px; color: var(--text); font-weight: 600; font-family: var(--font); }
 .hero-location { color: var(--muted); font-size: 13px; margin-top: 2px; }
 h1 { font-size: clamp(56px, 8vw, 104px); line-height: 1; font-weight: 650; letter-spacing: -.055em; margin: 36px 0 32px; text-wrap: balance; }
@@ -110,7 +110,7 @@ em { font-style: normal; color: var(--green); }
 .contribution > p { color: var(--muted); font-size: 14px; margin: 10px 0 12px; max-width: 640px; }
 .pr-list { display: flex; flex-wrap: wrap; gap: 8px 16px; }
 .pr-link { font: 13px/1.6 var(--font); display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; max-width: 100%; min-height: 44px; }
-.merged { flex: 0 0 auto; color: var(--purple); font-size: 11px; }
+.merged { display: block; flex: 0 0 16px; width: 16px; height: 16px; }
 
 /* Experience */
 .job { display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 20px; padding-block: 28px; border-top: 1px solid var(--line-soft); }
