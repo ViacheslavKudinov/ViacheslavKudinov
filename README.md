@@ -1,3 +1,40 @@
+## Portfolio Website
+
+The single-page portfolio lives in `site/` on the `website` branch. The profile content below is preserved.
+
+### Local Checks
+
+Use Node.js 22 or later:
+
+```sh
+npm ci --ignore-scripts
+npm test
+npm run build
+```
+
+Open `dist/index.html` directly in your browser. No development server or npm runtime dependencies are required. Edit `site/index.html` for content and `site/assets/styles.css` for styling. The avatar, tool icons, `vk.` favicon, and social preview are local assets; typography uses system fonts. The site links directly to the plugin on JetBrains Marketplace. A small local script fills in the current copyright year; navigation and content remain available without JavaScript.
+
+The canonical URL and sharing metadata target the configured custom domain, `https://kudinov.tech/`. Update them if the domain changes. The 1200 × 630 social image is `site/assets/social-preview.png`; regenerate it on macOS with `swift scripts/generate-social-preview.swift` after editing the drawing source.
+
+For a layout review, check widths of 320px, 375px, 768px, and 1280px, along with 200% browser zoom. Confirm navigation remains reachable, anchor headings stay visible, links show keyboard focus, and long repository names and metadata wrap without horizontal scrolling. The Node checks validate build output and local asset references; they do not replace browser layout checks.
+
+### GitHub Pages Deployment
+
+The workflow at `.github/workflows/pages.yml` tests and builds the site, then deploys the `dist/` artifact using GitHub's official Pages actions. Pull requests only build and test; deployment runs only from `website`.
+
+When ready to publish:
+
+1. Commit and push the local `website` branch.
+2. In repository **Settings > Pages > Build and deployment**, select **GitHub Actions** as the source.
+3. Allow the `website` branch in the `github-pages` environment's deployment rules if the environment restricts branches.
+4. Push another commit to `website` or rerun the failed deployment after enabling Pages. Manual dispatch becomes available when this workflow also exists on the repository's default branch.
+
+Public URL: <https://kudinov.tech/> (the custom domain configured in GitHub Pages). The underlying project-site URL is <https://viacheslavkudinov.github.io/ViacheslavKudinov/>. Relative asset paths support both locations. Manage the custom domain in repository **Settings > Pages**.
+
+Nothing is committed, pushed, or deployed automatically during local setup.
+
+---
+
 ## 👋 Hi, I’m @ViacheslavKudinov 🇺🇦
 - Highly skilled, results-oriented, and proactive Continuous Delivery Engineer with a strong academic background (Master’s Degree in Technical Cybernetics) and a special focus on application and infrastructure operations automation
 - Highly proficient in supporting the creation, deployment, and operations of different cloud/on-prem environments with comprehensive software (Terraform, Ansible, Puppet)
